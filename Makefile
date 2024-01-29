@@ -188,6 +188,12 @@ UPROGS=\
 	$U/_grind\
 	$U/_wc\
 	$U/_zombie\
+	$U/_copy\
+	$U/_open\
+	$U/_fork\
+	$U/_exec\
+	$U/_forkexec\
+	$U/_redirect\
 
 
 
